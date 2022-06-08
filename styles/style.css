@@ -1,0 +1,25 @@
+html {
+    background-image: url(../imagens/churrasco.jpg);
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgb(236, 170, 85);
+    background-size: contain;
+    border: 2px solid darkgray;
+    color: #000; text-shadow: 1px 1px 0 #fff;
+    padding: 20px;
+}
+
+input {
+   width: 80%;
+   margin-top: block;
+   padding: 5px;
+   margin-bottom: 10px;
+}
+
+button {
+ display: block;
+}
